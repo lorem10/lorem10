@@ -10,6 +10,6 @@
 
 - 👨‍💻 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **momenei.alireza1382.15@gmail.com**
+- 📫 How to reach me **[telegram](https://t.me/Lorem10)**
 
 - ⚡ Fun fact **I enjoy watching anime**
