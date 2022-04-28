@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **[Nuxt,TypeScript](https://typescript.nuxtjs.org)**
+- 🌱 I’m currently learning **[Deno](https://deno.land)**
 
 - 👨‍💻 I’m looking to collaborate on **OpenSource Projects**
 
